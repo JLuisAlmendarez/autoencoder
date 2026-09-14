@@ -2,8 +2,6 @@
 
 Autoencoder Variacional Convolucional (CVAE) implementado en TensorFlow/Keras para aprender una representación latente de imágenes de calzado y generar nuevas imágenes a partir de esa representación. El dataset se construyó mediante *web scraping* de imágenes de zapatos de StockX.
 
-> 📄 Reporte académico completo (metodología, arquitectura y resultados) disponible en [`Report/`](./Report).
-
 ## Descripción
 
 El proyecto entrena un **CVAE** capaz de:
